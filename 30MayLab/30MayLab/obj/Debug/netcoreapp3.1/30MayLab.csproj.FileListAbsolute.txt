@@ -1,0 +1,13 @@
+C:\Users\LENOVO\Desktop\30MayLab\30MayLab\bin\Debug\netcoreapp3.1\30MayLab.exe
+C:\Users\LENOVO\Desktop\30MayLab\30MayLab\bin\Debug\netcoreapp3.1\30MayLab.deps.json
+C:\Users\LENOVO\Desktop\30MayLab\30MayLab\bin\Debug\netcoreapp3.1\30MayLab.runtimeconfig.json
+C:\Users\LENOVO\Desktop\30MayLab\30MayLab\bin\Debug\netcoreapp3.1\30MayLab.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\30MayLab\30MayLab\bin\Debug\netcoreapp3.1\30MayLab.dll
+C:\Users\LENOVO\Desktop\30MayLab\30MayLab\bin\Debug\netcoreapp3.1\30MayLab.pdb
+C:\Users\LENOVO\Desktop\30MayLab\30MayLab\obj\Debug\netcoreapp3.1\30MayLab.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\30MayLab\30MayLab\obj\Debug\netcoreapp3.1\30MayLab.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\30MayLab\30MayLab\obj\Debug\netcoreapp3.1\30MayLab.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\30MayLab\30MayLab\obj\Debug\netcoreapp3.1\30MayLab.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\30MayLab\30MayLab\obj\Debug\netcoreapp3.1\30MayLab.dll
+C:\Users\LENOVO\Desktop\30MayLab\30MayLab\obj\Debug\netcoreapp3.1\30MayLab.pdb
+C:\Users\LENOVO\Desktop\30MayLab\30MayLab\obj\Debug\netcoreapp3.1\30MayLab.genruntimeconfig.cache
